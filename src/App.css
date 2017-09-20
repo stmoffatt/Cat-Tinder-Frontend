@@ -1,0 +1,28 @@
+
+#view{
+
+
+
+}
+
+#catbox{
+  border: 1px solid black;
+}
+
+#header{
+  text-align: center;
+}
+
+.inputForm{
+  margin: auto auto auto 31.5%;
+  width:40%;
+}
+
+.inputClass{
+  width:200%;
+}
+
+.buttonPlace{
+  margin: auto auto auto 36%;
+  width:65%;
+}
